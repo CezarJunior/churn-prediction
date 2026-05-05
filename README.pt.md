@@ -1,3 +1,7 @@
+[English](./README.md) · **Português**
+
+---
+
 # Previsão de Churn de Clientes — Telecom
 
 Projeto de portfólio nível produção que combina **ML + LLM** para prever cancelamentos de clientes em uma operadora de telecomunicações usando **XGBoost + Optuna**, e permite que analistas façam perguntas em linguagem natural sobre os resultados via **pipeline RAG (LlamaIndex + FAISS + Groq)**.

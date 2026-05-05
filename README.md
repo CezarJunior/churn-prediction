@@ -1,3 +1,7 @@
+**English** · [Português](./README.pt.md)
+
+---
+
 # Telecom Customer Churn Prediction
 
 A production-grade ML + LLM portfolio project that predicts customer churn for a telecom company using **XGBoost + Optuna**, then lets analysts ask natural-language questions about the results via a **RAG pipeline (LlamaIndex + FAISS + Groq)**.
